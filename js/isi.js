@@ -25,7 +25,6 @@ function calculate() {
       result = 'Operator tidak valid';
   }
 
-  // Menambahkan hasil perhitungan ke dalam daftar
   const resultText = `Hasil: ${num1} ${operator} ${num2} = ${result}`;
   const resultList = document.getElementById('resultList');
   const listItem = document.createElement('li');
@@ -34,3 +33,13 @@ function calculate() {
 }
 
 document.getElementById('calculateButton').addEventListener('click', calculate);
+
+function finish() {
+  if (confirm('Terimakasih sudah Mampir. Halaman akan di-reset.')) {
+    location.reload();
+  }
+
+}
+
+const finishButton = document.getElementById('finishButton');
+finishButton.addEventListener('click', finish);
