@@ -33,7 +33,7 @@ here i want to explain what i create ( Landing page with DOM, Function, Looping,
 
 3. Looping >= in my code, theres no for / while , but i make loop with
   - document.getElementById('calculateButton').addEventListener('click', calculate);
-  so this have a function, when you click ( hasil ), it will give you a list from all result you create and if you want to delete lastest result, you can do refresh page.
+so this have a function, when you click ( hasil ), it will give you a list from all result you create and if you want to delete lastest result, you can do refresh page.
 
 4. Array >= now i will explain where is array
   - const users = [
