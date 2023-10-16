@@ -67,6 +67,22 @@ so this have a function, when you click ( hasil ), it will give you a list from 
 
 
 -----------------------------------------------------------------------------------
+# Now i will guide you how to use
+1. you can login with
+   -	username : user1
+	password : password1
+   -	username : user2
+	password : password2
+   -	username : user3
+	password : password3
+   -	username : user4
+	password : password4
+
+2. you can input number in input coloumn and select the arithmetic what you want to use
+3. click hasil to see the result from aritmetic
+4. if you want to clear to result, you can click selesai button and click ok alert
+   
+
 
 Best regards,
 Kevin Hetratama
