@@ -6,7 +6,11 @@ here i want to explain what i create ( Landing page with DOM, Function, Looping,
 	- addEventListener = loginForm.addEventListener('submit', (e) => {}
 							
 2. Function >= i create function to define calculate() also inside the function has DOM, switch, if else. example : 
-	- const num1 = parseFloat(document.getElementById('num1').value);
+	- function calculate() {}
+	- function finish() {}
+	- DOM	  const num1 = parseFloat(document.getElementById('num1').value);
+		  const num2 = parseFloat(document.getElementById('num2').value);
+		  const operator = document.getElementById('operator').value;
 	- switch (operator) {
       		case '+':
         		result = num1 + num2;
