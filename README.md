@@ -1,4 +1,4 @@
-------------------------------------- Assigment JavaScript FSD harisenin.com --------------------------------------------------
+--------------------------------------------- Assigment JavaScript FSD harisenin.com --------------------------------------------------
 hello my name is Kevin Hetratma no.36
 here i want to explain what i create ( Landing page with DOM, Function, Looping, Array, etc )
 1. DOM >= in my code, iam using DOM to get element from html. example : 
